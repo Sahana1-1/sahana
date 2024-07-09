@@ -41,7 +41,7 @@ cat copy url from previous command called public key
 go to our github link go to settings then go for ssh and paste the cat link
 ssh -T git@github.com
 git push origin master
-then check in our github link 
+then check in our github link and go for branches there it will be our
 
 
 
